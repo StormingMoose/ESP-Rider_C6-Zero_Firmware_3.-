@@ -11,3 +11,5 @@ working - servo
 working - motor
 
 not working - light on the board control
+
+https://www.youtube.com/shorts/PatwSolp5Wo to see a working example.
