@@ -6,4 +6,4 @@ Need to boot the esp32, connect phone to the access point, load the webpage at 1
 
 Used the network server instead of webserver to get it to work with firmware 3.
 
-https://www.youtube.com/shorts/PatwSolp5Wo to see a working example.
+https://youtu.be/51wtBVJUGMA to see a working example.
